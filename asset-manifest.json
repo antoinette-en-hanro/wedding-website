@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1bf44d3.css",
-    "main.js": "/static/js/main.1c7ad79b.js",
+    "main.css": "/static/css/main.6447df3a.css",
+    "main.js": "/static/js/main.1674e01b.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/BackGround.png": "/static/media/BackGround.d825ee35d1c5554577fa.png",
     "static/media/VenueThree.png": "/static/media/VenueThree.65425816c9db8c9a8d47.png",
@@ -13,6 +13,7 @@
     "static/media/AntrovectraBolder-ALGPp.otf": "/static/media/AntrovectraBolder-ALGPp.ec10ecb0f26827c86274.otf",
     "static/media/CasaLabiaLogo.png": "/static/media/CasaLabiaLogo.1cdc23d589ee00428a9e.png",
     "static/media/paws.png": "/static/media/paws.3d83b4828c194a0a1d32.png",
+    "static/media/AccentInvert.png": "/static/media/AccentInvert.dd24cc65defca9037132.png",
     "static/media/SonnekusLogo.png": "/static/media/SonnekusLogo.3abda08f8af129748fff.png",
     "static/media/married.png": "/static/media/married.fa2a3333419fdb6d50bf.png",
     "static/media/engaged.png": "/static/media/engaged.265a213013ee4fbbb016.png",
@@ -26,12 +27,12 @@
     "static/media/hearts.png": "/static/media/hearts.4071a35a35d2dc3eba8f.png",
     "static/media/hands.png": "/static/media/hands.9b03728349fdb62c04e8.png",
     "index.html": "/index.html",
-    "main.a1bf44d3.css.map": "/static/css/main.a1bf44d3.css.map",
-    "main.1c7ad79b.js.map": "/static/js/main.1c7ad79b.js.map",
+    "main.6447df3a.css.map": "/static/css/main.6447df3a.css.map",
+    "main.1674e01b.js.map": "/static/js/main.1674e01b.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1bf44d3.css",
-    "static/js/main.1c7ad79b.js"
+    "static/css/main.6447df3a.css",
+    "static/js/main.1674e01b.js"
   ]
 }
